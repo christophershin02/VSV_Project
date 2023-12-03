@@ -1,0 +1,15 @@
+AB_Names:
+- "1E9"
+- "8G5"
+Directory_Prefix: "./"
+VMD_Path: "/packages/vmd/1.9.3/bin/vmd"
+NAMD_Path: "/packages/namd/2.12/namd2"
+Build_Script: "./build.tcl"
+Receptor_PDB: "/home/cshin11/Desktop/Test_dir1E9/5I2S.pdb"
+Sim_Toppar_Directory: "/home/cshin11/Desktop/charmm-gui-Pose2/namd/toppar"
+Build_Toppar_Directory: "/home/cshin11/Desktop/charmm-gui-Pose2/toppar"
+NAMD_Template: "./min.conf.template"
+VMD_Pair_Int_Script: "./pair_int.tcl"
+Group_1_Selection_Text: None
+Group_2_Selection_Text: None
+NAMD_Pair_Interaction_Template: 'pair_int.conf.template'
