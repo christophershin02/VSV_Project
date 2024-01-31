@@ -6,7 +6,7 @@ Before I begin, I wanted to explain the purpose of the project. Some researchers
 
 The researchers at the Mayo Clinic came to us to figure out where exactly on the glycoprotein G the antibody was binding to. If we can figure this out, then we can selectively mutate specific residues at the antibody binding site such that the antibody is unable to bind to the glycoprotein. In order to determine where the epitope was binding to, we had to run NAMD, a molecular dynamics software that allows us to gather information about the receptor-antibody complex. 
 
-### convert-to-csv.ipynb (v1/v2)
+
 
 
 
